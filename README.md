@@ -1,5 +1,6 @@
-# Fask-Order-Generator
+# Fake-Order-Generator
 main.py作为入口文件
+使用的python 版本: 3.14
 # 部门假单生成器 - Department Leave Form Generator
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
